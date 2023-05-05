@@ -17,4 +17,5 @@
 - Don't get scared by the "LICENCE" file or license comments written in the
 code files. It's just a basic MIT license. It only states that, you have
 the right to do literally anything you want with these codes (this includes
-commercial use and modification) as long as you credit the original author.
+commercial use and modification) as long as you credit the original author 
+(only if you publish it).
