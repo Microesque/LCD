@@ -72,8 +72,8 @@
 
 
     //******************* Other Definitions *******************//
-    #define LCD_BUSY_DELAY           40                    //Minimum delay required by short commands[uS]
-    #define LCD_BUSY_DELAY_EXTENDED (1600-LCD_BUSY_DELAY)  //Extra delay required by the longer commands[uS]
+    #define LCD_BUSY_DELAY           60                    //Minimum delay required by short commands[uS]
+    #define LCD_BUSY_DELAY_EXTENDED (2300-LCD_BUSY_DELAY)  //Extra delay required by the longer commands[uS]
 
     #define LCD_CMD_FUNCTION_SET     0x28  //Function Set(4-bit, 2 line, 5x8 dots)
     #define LCD_CMD_DISPLAY_CONTROL  0x0C  //Display On/Off Control(Display on, cursor off, blinking off)
